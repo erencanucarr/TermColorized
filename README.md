@@ -3,7 +3,10 @@
 A powerful terminal text styling, coloring and animation library for Node.js CLI applications.
 
 [![npm version](https://badge.fury.io/js/termcolorized.svg)](https://badge.fury.io/js/termcolorized)
+[![npm downloads](https://img.shields.io/npm/dm/termcolorized.svg)](https://www.npmjs.com/package/termcolorized)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/termcolorized)](https://bundlephobia.com/package/termcolorized)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Zero Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](https://www.npmjs.com/package/termcolorized)
 
 ## ✨ Features
 
