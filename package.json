@@ -29,17 +29,17 @@
     "zero-dependencies",
     "no-dependencies"
   ],
-  "author": "TermColorized Developer",
+  "author": "Eren Can Ucar",
   "license": "MIT",
   "engines": {
     "node": ">=14.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/termcolorized.git"
+    "url": "https://github.com/erencanucarr/termcolorized.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/termcolorized/issues"
+    "url": "https://github.com/erencanucarr/termcolorized/issues"
   },
-  "homepage": "https://github.com/yourusername/termcolorized#readme"
+  "homepage": "https://github.com/erencanucarr/termcolorized#readme"
 } 
