@@ -1,0 +1,59 @@
+# Development files
+.git/
+.gitignore
+.npmignore
+.github/
+
+# Build artifacts
+dist/
+*.map
+
+# Development scripts
+scripts/
+
+# Test files
+test/
+tests/
+*.test.js
+*.spec.js
+
+# Example files
+examples/
+demo/
+*.demo.js
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+tmp/
+temp/
+.tmp/
+
+# Coverage
+coverage/
+.nyc_output/
+
+# Environment files
+.env*
+.env.local
+.env.development
+.env.test
+.env.production 

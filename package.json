@@ -1,0 +1,45 @@
+{
+  "name": "termcolorized",
+  "version": "1.0.0",
+  "description": "A powerful terminal text styling, coloring and animation library for Node.js CLI applications - Zero Dependencies",
+  "main": "src/index.js",
+  "module": "src/index.js",
+  "bin": {
+    "terminal-colorizer-demo": "./bin/demo.js"
+  },
+  "files": [
+    "src",
+    "bin"
+  ],
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "demo": "node bin/demo.js"
+  },
+  "keywords": [
+    "terminal",
+    "color",
+    "styling",
+    "animation",
+    "cli",
+    "console",
+    "text",
+    "gradient",
+    "ansi",
+    "colors",
+    "zero-dependencies",
+    "no-dependencies"
+  ],
+  "author": "TermColorized Developer",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/termcolorized.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/termcolorized/issues"
+  },
+  "homepage": "https://github.com/yourusername/termcolorized#readme"
+} 
